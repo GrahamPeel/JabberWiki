@@ -1,0 +1,2 @@
+# JabberWiki
+Wiki Editing Platform
